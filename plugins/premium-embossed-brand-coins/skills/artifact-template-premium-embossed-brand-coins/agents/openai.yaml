@@ -1,0 +1,7 @@
+interface:
+  display_name: "Premium Embossed Brand Coins"
+  short_description: "Create images with the Premium Embossed Brand Coins template"
+  icon_large: "./assets/preview.png"
+  default_prompt: "Use $artifact-template-premium-embossed-brand-coins to create an image with this template."
+policy:
+  allow_implicit_invocation: true
